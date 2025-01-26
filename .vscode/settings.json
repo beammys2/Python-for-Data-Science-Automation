@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Users\\Jose Caloca\\anaconda3\\envs\\Python-for-Data-Science-Automation\\python.exe",
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "jupyter.sendSelectionToInteractiveWindow": true
+}
